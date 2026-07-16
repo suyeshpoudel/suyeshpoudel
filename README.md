@@ -18,8 +18,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/supo21/supo21/output/github-snake.svg" />
 </picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supo21&show_icons=true&locale=en&layout=compact" alt="supo21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyeshpoudel&show_icons=true&locale=en&layout=compact" alt="suyeshpoudel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supo21&show_icons=true&locale=en" alt="supo21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyeshpoudel&show_icons=true&locale=en" alt="suyeshpoudel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supo21&" alt="supo21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyeshpoudel&" alt="suyeshpoudel" /></p>
